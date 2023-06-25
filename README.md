@@ -6,3 +6,5 @@
 ### 화면이동 및 의존성(WIP)
 
 ### Clean Architecture with MVVM
+
+### SOLID 객체지향 설계
