@@ -8,3 +8,5 @@
 ### Clean Architecture with MVVM
 
 ### SOLID 객체지향 설계
+
+### 거인의 노트
