@@ -31,4 +31,6 @@
 
 ### Implicit and Explicit
 
-### Transaction / SwiftUI / WWDC
+### SwiftUI / WWDC
+
+### [논리적단위 / 트랜잭션](논리적단위.md)
