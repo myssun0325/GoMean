@@ -30,3 +30,5 @@
 ### 숫자로 나타내는 것. 숫자가 의미하는 것. 가치를 두는 것
 
 ### Implicit and Explicit
+
+### Transaction / SwiftUI / WWDC
